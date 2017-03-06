@@ -2,6 +2,7 @@ package com.example.jk.gittest;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.util.Log;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -11,5 +12,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
 //        git remote add origin https://github.com/jkoer86/myTest.git
+
+        Log.e("GIT","sadsafsadgmdsbgfmsdbgbsdggitgitgit");
     }
 }
