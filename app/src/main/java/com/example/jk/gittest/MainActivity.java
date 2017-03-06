@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
 
 //        git remote add origin https://github.com/jkoer86/myTest.git
 
-        Log.e("GIT","sadsafsadgmdsbgfmsdbgbsdggitgitgit");
+        Log.e("GIT","sadsafsadgmdsbgfmsdbgbsdggitgitgitdasdsadsad");
+
     }
 }
